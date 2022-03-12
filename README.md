@@ -2,7 +2,8 @@
 <h1 align="center">I'm Md. Shahadat Anik Sheikh</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh, South Asia, Earth.</h3>
 
-🔭 I’m currently working on <i><b> Weather project </b> </i></b> </i> <br/>
+🔭 I’m currently working on <a href="https://github.com/ShahadatAnik/GhorKuno" target="_blank" rel="noreferrer"> <i><b> GhorKuno project </b> </i></b> </i> </a>
+   <br/>
 🌱 I’m currently learning <i><b> ReactJs, Django</b> </i> <br/>
 👯 I’m looking to collaborate on<i><b> Django and React developers</b> </i><br/>
 📫 How to reach me<i><b> shahadatanik777@gmail.com</b> </i><br/>
