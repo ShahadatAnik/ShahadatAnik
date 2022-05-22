@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Md. Shahadat Anik Sheikh</h1>
-<h3 align="center">A passionate frontend and backend developer from Bangladesh, South Asia, Earth.</h3>
+<h1 style="color:red;">Md. Shahadat Anik Sheikh</h1>
+<h3>A passionate frontend and backend developer from Bangladesh, South Asia, Earth.</h3>
 
 🔭 I’m currently working on <a href="https://github.com/ShahadatAnik/GhorKuno-Django_REST_React-Web-App" target="_blank" rel="noreferrer"> <i><b> GhorKuno project </b> </i></b> </i> </a>
    <br/>
