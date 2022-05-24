@@ -8,7 +8,6 @@ GhorKuno
 </b>
 </a>
 <br/>
-
 🌱 I’m currently learning <b> ReactJs, Django</b> <br/>
 👯 I’m looking to collaborate on<i><b> Django and React developers</b> </i><br/>
 📫 How to reach me<i><b> shahadatanik777@gmail.com</b> </i><br/>
