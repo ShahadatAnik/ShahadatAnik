@@ -2,9 +2,9 @@
    <h1 style="color:red;">Md. Shahadat Anik Sheikh</h1>
    <h3>A passionate frontend and backend developer from Bangladesh, South Asia, Earth.</h3>
 
-🔭 I’m currently working on <a href="https://github.com/ShahadatAnik/GhorKuno-Django_REST_React-Web-App" target="_blank" rel="noreferrer">
+🔭 I’m currently working on <a href="https://github.com/ShahadatAnik/TextAnywhere-Django_REST_React-Web-App" target="_blank" rel="noreferrer">
 <b>
-GhorKuno
+TextAnywhere
 </b>
 </a>
 <br/>
